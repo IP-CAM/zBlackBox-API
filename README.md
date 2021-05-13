@@ -9,17 +9,16 @@ The Zblackbox API module works with the basis of the people of the BlackBox.net.
 If you are the sender of the goods and faced such a problem, you can easily make an unfair client to the database and thereby help others save your money and time. You need to confirm the failure of the shipment of the shipping invoice (TTN, Declaration) of the delivery service New Mail
 Analyzing negative stores stores You can classify feedback on the following types.
 
-! [BlackBox_Kartinka3] (https://user-images.githubusercontent.com/31914380/114687938-e6b1f700-9d1c-11b-8cd1-7e7b98707fda.jpg)
+![BlackBox_картинка3](https://user-images.githubusercontent.com/31914380/114687938-e6b1f700-9d1c-11eb-8cd1-7e7b98707fda.jpg)
 
 
-! [BlackBox_Kartinka] (https://user-images.githubusercontent.com/31914380/114688075-0812e300-9d1d-11b-892b-f59b092b-f59b092b-f.jpg)
+![BlackBox_картинка](https://user-images.githubusercontent.com/31914380/114688075-0812e300-9d1d-11eb-892b-f59b0924dfcf.jpg)
 
 
-! [BlackBox_ Cartinka2] (https://user-images.githubusercontent.com/31914380/114688115-15c8688115-15c86880-9d1d-11b-8ef9-5ba28c48443a.jpg)
+![BlackBox_картинка2](https://user-images.githubusercontent.com/31914380/114688115-15c86880-9d1d-11eb-8ef9-5ba28c48443a.jpg)
 
 
-! [BlackBox_Kartinka5] (https://user-images.githubusercontent.com/31914380/114688169-224cc100-9d1d-11b-987b-236871118a40.jpg)
-
+![BlackBox_картинка5](https://user-images.githubusercontent.com/31914380/114688169-224cc100-9d1d-11eb-987b-236871118a40.jpg)
 
           Black list of buyers and reasons for not boiled cargo:
 "All I have to" - buyers believe that the store, when it sends the goods with a superpower itself is responsible for sending, and the expenses of the store with an unknowable cargo - a purely problem
@@ -46,7 +45,9 @@ In the module settings, specify the API key.
 
 An example of the operation of the module
 
-! [BlackBox_Kartinka4] (https://user-images.githubusercontent.com/31914380/114688379-50320580-9d1d-11b-8dd9-1a8a422a3add.jpg) 
+![BlackBox_картинка4](https://user-images.githubusercontent.com/31914380/114688379-50320580-9d1d-11eb-8dd9-1a8a422a3add.jpg)
+
+
 
 ----------------
 
